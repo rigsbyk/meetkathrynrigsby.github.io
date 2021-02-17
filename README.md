@@ -1,3 +1,3 @@
-# meetkathrynrigsby.github.io
+# rigsbyk.github.io
 README.md
 default web location
